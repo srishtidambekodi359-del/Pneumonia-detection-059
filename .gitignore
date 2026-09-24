@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+nndl!1_dataset/
+*.zip
+
+# Trained deep learning models
+*.keras
+*.h5
+*.hdf5
+
+# Python
+__pycache__/
+*.pyc
